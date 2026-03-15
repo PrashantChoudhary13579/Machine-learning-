@@ -10,7 +10,7 @@ Solve:
 7. Analyze each attribute using the factor plot analysis using Seaborne library
 
 
-After that complete the following
+After that complete the following 
 1. Read NIRF data as given in Dataset tab on Google Classroom.
 2. Group the data statewise and Count the number of colleges in each state.
 3.  Sort the records based on rpc attribute (Research Professional practices).
